@@ -2,7 +2,7 @@
 
 I'm a final-year engineering student at UTC (Université de Technologie de Compiègne), on the Data & AI track. This semester I'm on exchange at Université Laval in Québec, taking NoSQL databases, cloud and DevOps.
 
-What I like about data is making it talk. A pile of raw tables doesn't answer anything until someone cleans it, models it and asks it a real question. I try to start from the need (who will use this, and for what?) and work back to the pipeline, rather than the other way round. That's also why I care about data quality: if people can't trust the numbers, the rest doesn't matter.
+What I like about data is making it talk. A pile of raw tables doesn't answer anything until someone cleans it, models it and asks it a real question. I try to start from the need (who will use this, and for what?) and work back to the pipeline. That's also why I care about data quality: if people can't trust the numbers, the rest doesn't matter.
 
 
 ## Outside of code
